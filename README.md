@@ -8,7 +8,7 @@
   * DevOps App (currently Azure, GitLab, Jenkins, Docker and Kubernetes)
   * MS Power Platform services
 - 👯 I’m looking to collaborate on 
- * Every front/back-end development project, just to practice 👀
+  * Every front/back-end development project, just to practice 👀
 - 📫 How to reach me: 
- * federicoconti1702@gmail.com
- * federico.conti@iit.it
+  * federicoconti1702@gmail.com
+  * federico.conti@iit.it
