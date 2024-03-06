@@ -1,12 +1,13 @@
 ### Hi there, I'm @Federico-Conti 👋
-- 🔭 I’m currently working on Istituto Italiano di Tecnologia
+- 🔭 I’m currently working in the Application Office at Istituto Italiano di Tecnologia 
 - 👀 I’m interested in
-  * OpenAI tools
+  * OpenAI tools for RAG models and LLMOps 🤖
 - 🌱 I’m currently learning
   * Javascript and its frameworks (currently Node js and React js)
-  * Python for software development
-  * DevOps App (currently Azure, GitLab, Jenkins, Docker and Kubernetes)
+  * Python and its library (currently Langchain and Pinecone)
+  * DevOps App (currently Azure, GitLab, Jenkins, Docker, and Kubernetes)
   * MS Power Platform services
+  *  Azure Cognitive Services
 - 👯 I’m looking to collaborate on 
   * Every front/back-end development project, just to practice :octocat:
 - 📫 How to reach me: 
