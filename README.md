@@ -1,15 +1,12 @@
 ### Hi there, I'm @Federico-Conti 👋
-- 🔭 I’m currently working in the Application Office at Istituto Italiano di Tecnologia 
+- 💻 I'm a Software Security student in Università di Genova and I currently working in the Application Office at Istituto Italiano di Tecnologia.
 - 👀 I’m interested in
-  * OpenAI tools for RAG models and LLMOps 🤖
+  * RAG application and AI Agents architetecutre 🤖
 - 🌱 I’m currently learning
+  * Python and its library (currently LangGraph and azure-devops)
   * Javascript and its frameworks (currently Node js and React js)
-  * Python and its library (currently Langchain and Pinecone)
-  * DevOps App (currently Azure, GitLab, Jenkins, Docker, and Kubernetes)
   * MS Power Platform services
-  *  Azure Cognitive Services
-- 👯 I’m looking to collaborate on 
-  * Every front/back-end development project, just to practice :octocat:
+  * Azure Cognitive Services
 - 📫 How to reach me: 
   * federicoconti1702@gmail.com
   * federico.conti@iit.it
